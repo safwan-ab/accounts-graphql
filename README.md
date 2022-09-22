@@ -9,3 +9,4 @@ If you want to test out the application you can use the GraphiQL UI located at h
 
 - Run the Spring Boot application which will run on port 8080
 
+test
